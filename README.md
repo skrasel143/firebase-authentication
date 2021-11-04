@@ -1,7 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+# LIve Site
+https://fir-autentication-6d050.web.app/?fbclid=IwAR1XmGk2jzRO3QVe8Idu8r5FzKMbLn5BerbdKU56ArHkotn29Vpm5tX5dZg
 ## Available Scripts
 
 In the project directory, you can run:
